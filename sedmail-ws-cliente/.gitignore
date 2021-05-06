@@ -1,0 +1,14 @@
+.classpath
+target/
+.settings/
+.project
+.bin/
+*.classpath
+*.settings/
+*.project
+*.bin/
+*.settings/
+*.project/
+sed-seg-ws-cliente/.classpath
+sed-seg-ws-cliente/.project
+
